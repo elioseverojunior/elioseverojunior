@@ -1,4 +1,4 @@
-<h1 align="left" id="elioseverojunior-title">:wave: Hello there! I'm Elio Severo Junior</h1>
+<h1 align="left" id="elioseverojunior-title">:wave: Hello there! I'm Elio</h1>
 <h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
 
 <p align="left">
@@ -160,24 +160,6 @@
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
-
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://elioseverojunior.readthedocs.io/en/latest/#dynamic-ascii-graph)
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[Elio Eti Br]: https://github.com/elioetibr "84.51° Github Home"
+[Elio Eti Br]: https://github.com/elioetibr "Elio.Eti.Br° Github Home"
 [issues page]: https://github.com/elioseverojunior/elioseverojunior/issues "elioseverojunior/issues"
 [linkedin]: https://www.linkedin.com/in/elio "Elio Severo Junior LinkedIn"
