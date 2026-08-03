@@ -22,16 +22,16 @@ Full résumé: [https://elioseverojunior.github.io](https://elioseverojunior.git
 
 ## Open source
 
-Published libraries and providers, 29,372 downloads combined.
+Published libraries and providers, 29,695 downloads combined.
 
 | Project | What it does | Downloads |
 | --- | --- | --- |
-| [rust-yaml](https://crates.io/crates/rust-yaml) | Fast, safe YAML 1.2 library for Rust | 23,346 |
-| [terraform-provider-strcase](https://registry.terraform.io/providers/elioseverojunior/strcase) | String case conversion functions for Terraform | 3,871 |
-| [terraform-provider-kind](https://registry.terraform.io/providers/elioseverojunior/kind) | Ephemeral Kubernetes-in-Docker clusters for CI and local test harnesses | 856 |
-| [terraform-provider-docker](https://registry.terraform.io/providers/elioseverojunior/docker) | Declarative container lifecycle and image resources | 662 |
-| [terraform-provider-dnsmasq](https://registry.terraform.io/providers/elioetibr/dnsmasq) | Local DNS record management as infrastructure as code | 417 |
-| [terraform-provider-sops](https://registry.terraform.io/providers/elioetibr/sops) | Native decryption of SOPS-managed secrets inside Terraform plans | 220 |
+| [rust-yaml](https://crates.io/crates/rust-yaml) | Fast, safe YAML 1.2 library for Rust | 23,533 |
+| [terraform-provider-strcase](https://registry.terraform.io/providers/elioseverojunior/strcase) | String case conversion functions for Terraform | 3,896 |
+| [terraform-provider-kind](https://registry.terraform.io/providers/elioseverojunior/kind) | Ephemeral Kubernetes-in-Docker clusters for CI and local test harnesses | 897 |
+| [terraform-provider-docker](https://registry.terraform.io/providers/elioseverojunior/docker) | Declarative container lifecycle and image resources | 683 |
+| [terraform-provider-dnsmasq](https://registry.terraform.io/providers/elioetibr/dnsmasq) | Local DNS record management as infrastructure as code | 452 |
+| [terraform-provider-sops](https://registry.terraform.io/providers/elioetibr/sops) | Native decryption of SOPS-managed secrets inside Terraform plans | 234 |
 
 Recently shipped: **comply** — REUSE/SPDX compliance tooling for Rust (July 2026). Crates: [comply](https://crates.io/crates/comply), [comply-cli](https://crates.io/crates/comply-cli). Source: [elioseverojunior/comply](https://github.com/elioseverojunior/comply).
 
