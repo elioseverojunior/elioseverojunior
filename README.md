@@ -22,11 +22,11 @@ Full résumé: [https://elioseverojunior.github.io](https://elioseverojunior.git
 
 ## Open source
 
-Published libraries and providers, 29,695 downloads combined.
+Published libraries and providers, 32,505 downloads combined.
 
 | Project | What it does | Downloads |
 | --- | --- | --- |
-| [rust-yaml](https://crates.io/crates/rust-yaml) | Fast, safe YAML 1.2 library for Rust | 23,533 |
+| [rust-yaml](https://crates.io/crates/rust-yaml) | Fast, safe YAML 1.2 library for Rust | 26,343 |
 | [terraform-provider-strcase](https://registry.terraform.io/providers/elioseverojunior/strcase) | String case conversion functions for Terraform | 3,896 |
 | [terraform-provider-kind](https://registry.terraform.io/providers/elioseverojunior/kind) | Ephemeral Kubernetes-in-Docker clusters for CI and local test harnesses | 897 |
 | [terraform-provider-docker](https://registry.terraform.io/providers/elioseverojunior/docker) | Declarative container lifecycle and image resources | 683 |
